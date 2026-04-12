@@ -14,7 +14,7 @@ O **LucroMax** é um copiloto inteligente para motoristas de aplicação que uti
 
 ## 📫 Como me encontrar
 - LinkedIn: [Seu Link Aqui]
-- Email: [Seu Email Aqui]
+- Email: gilliardson.swy@gmail.com
 
 ---
 "Transformando linhas de código em produtividade financeira."
