@@ -13,7 +13,7 @@ O **LucroMax** é um copiloto inteligente para motoristas de aplicação que uti
 - **Inovação:** Leitura de tela automática com feedback por voz e interface flutuante (Overlay).
 
 ## 📫 Como me encontrar
-- LinkedIn: [Seu Link Aqui]
+- LinkedIn: www.linkedin.com/in/gilliardson-wanderley-71b120403
 - Email: gilliardson.swy@gmail.com
 
 ---
