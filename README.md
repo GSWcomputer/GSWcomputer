@@ -34,8 +34,11 @@ Otimização: Filtros de auto-leitura para impedir loops de processamento e gara
 
 Plaintext
 LucroMax_Project/
+
 ├── app_android/       # Código fonte completo do aplicativo Android
+
 ├── backend_python/    # API FastAPI e lógica do motor de cálculo
+
 └── README.md          # Documentação do projeto
 
 👨‍💻 Sobre Mim
