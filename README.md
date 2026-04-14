@@ -1,20 +1,47 @@
-# Olá, eu sou o Gilliardson! 👋
+🚀 LucroMax: Copiloto Inteligente para Motoristas
+O LucroMax é uma solução completa de engenharia de software desenhada para resolver um problema real do dia a dia: a falta de clareza sobre o lucro líquido imediato em corridas de aplicativo. Utilizando OCR (Reconhecimento Óptico de Caracteres) e um motor de cálculo em nuvem, o sistema processa dados em tempo real para entregar métricas financeiras precisas.
 
-Sou um desenvolvedor focado em criar soluções que resolvem problemas reais do dia-a-dia, utilizando o que há de mais moderno em tecnologia mobile e processamento de dados.
+🛠️ Arquitetura do Sistema (Monorepo)
+O projeto é estruturado como um monorepo, garantindo a sincronia entre a captura de dados no dispositivo e o processamento pesado no servidor.
 
-## 🚀 Projeto em Destaque: LucroMax
-O **LucroMax** é um copiloto inteligente para motoristas de aplicativos que utiliza OCR e Inteligência Artificial para calcular o lucro real de corridas em tempo real.
+📱 Mobile (Kotlin & Android Nativo)
+Reconhecimento de Texto: Implementação do Google ML Kit para extração de dados diretamente da tela, otimizada para baixo consumo de bateria.
 
-### 🛠️ Tecnologias que utilizo no LucroMax:
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+Interface Flutuante (Overlay): Desenvolvido com WindowManager para exibir resultados sem interromper o fluxo de trabalho do motorista.
 
-- **Mobile:** Desenvolvido em Kotlin com Google ML Kit para reconhecimento de texto.
-- **Backend:** Motor de cálculo robusto em Python (FastAPI) hospedado na nuvem (Render).
-- **Inovação:** Leitura de tela automática com feedback por voz e interface flutuante (Overlay).
+Feedback Humanizado: Integração com TextToSpeech para que o motorista receba as métricas por voz, mantendo o foco na segurança do trânsito.
 
-## 📫 Como me encontrar
-- LinkedIn: www.linkedin.com/in/gilliardson-wanderley-71b120403
-- Email: gilliardson.swy@gmail.com
+⚙️ Backend (Python & FastAPI)
+Motor de Cálculo: API de alta performance desenvolvida em FastAPI e hospedada no Render.
 
----
+Lógica de Negócio: Algoritmos avançados que consideram:
+
+Tipo de combustível (GNV, Gasolina, Etanol).
+
+Consumo específico por modelo de veículo (ex: Renault Logan 1.0 SCe).
+
+Custos fixos de manutenção e depreciação.
+
+Soma inteligente de corridas duplas/emendadas via Regex avançada.
+
+🛡️ Foco em Segurança e Performance
+Segurança de Dados: Comunicação via Headers de Autenticação privada entre o App e a API.
+
+Otimização: Filtros de auto-leitura para impedir loops de processamento e garantir precisão nos cálculos.
+
+📂 Estrutura do Repositório
+Plaintext
+LucroMax_Project/
+├── app_android/       # Código fonte completo do aplicativo Android
+├── backend_python/    # API FastAPI e lógica do motor de cálculo
+└── README.md          # Documentação do projeto
+👨‍💻 Sobre Mim
+Olá, eu sou o Gilliardson! 👋
+Sou um desenvolvedor focado em transformar desafios complexos em ferramentas produtivas. Com background em Administração de Redes e Cybersecurity, aplico rigor técnico e boas práticas de arquitetura em cada linha de código.
+
+📫 Conecte-se comigo
+LinkedIn: www.linkedin.com/in/gilliardson-swy
+
+Email: gilliardson.swy@gmail.com
+
 "Transformando linhas de código em produtividade financeira."
