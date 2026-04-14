@@ -29,12 +29,14 @@ Segurança de Dados: Comunicação via Headers de Autenticação privada entre o
 
 Otimização: Filtros de auto-leitura para impedir loops de processamento e garantir precisão nos cálculos.
 
+
 📂 Estrutura do Repositório
 Plaintext
 LucroMax_Project/
 ├── app_android/       # Código fonte completo do aplicativo Android
 ├── backend_python/    # API FastAPI e lógica do motor de cálculo
 └── README.md          # Documentação do projeto
+
 👨‍💻 Sobre Mim
 Olá, eu sou o Gilliardson! 👋
 Sou um desenvolvedor focado em transformar desafios complexos em ferramentas produtivas. Com background em Administração de Redes e Cybersecurity, aplico rigor técnico e boas práticas de arquitetura em cada linha de código.
