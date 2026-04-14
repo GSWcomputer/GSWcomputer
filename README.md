@@ -39,7 +39,8 @@ LucroMax_Project/
 Olá, eu sou o Gilliardson! 👋
 Sou um desenvolvedor focado em transformar desafios complexos em ferramentas produtivas. Com background em Administração de Redes e Cybersecurity, aplico rigor técnico e boas práticas de arquitetura em cada linha de código.
 
-📫 Conecte-se comigo
+📫 Conecte-se comigo:
+
 LinkedIn: www.linkedin.com/in/gilliardson-swy
 
 Email: gilliardson.swy@gmail.com
