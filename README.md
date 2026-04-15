@@ -53,7 +53,7 @@ LucroMax_Project/
 
 👨‍💻 Sobre Mim
 
-Olá, eu sou o Gilliardson! 👋
+Olá, sou Gilliardson! 👋
 
 Sou um desenvolvedor focado em transformar desafios complexos em ferramentas produtivas. Com background em Administração de Redes e Cybersecurity, aplico rigor técnico e boas práticas de arquitetura em cada linha de código.
 
