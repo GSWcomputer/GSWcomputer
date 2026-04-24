@@ -61,10 +61,10 @@ LucroMax_Project/
       <strong>Gilliardson</strong><br>
       Administrador de Redes & Desenvolvedor Python. <br>
       Sou um desenvolvedor focado em transformar desafios complexos em ferramentas produtivas. Com background em Administração de Redes e Cybersecurity, aplico rigor técnico e boas práticas de arquitetura em cada linha de código.
+      
       📫 Conecte-se comigo:
 
 LinkedIn: www.linkedin.com/in/gilliardson-swy
-
 Email: gilliardson.swy@gmail.com
 
 "Transformando linhas de código em produtividade financeira."
