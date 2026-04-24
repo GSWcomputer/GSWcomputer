@@ -53,15 +53,23 @@ LucroMax_Project/
 
 👨‍💻 Sobre Mim
 
-Olá, sou Gilliardson! 👋
-
-Sou um desenvolvedor focado em transformar desafios complexos em ferramentas produtivas. Com background em Administração de Redes e Cybersecurity, aplico rigor técnico e boas práticas de arquitetura em cada linha de código.
-
-
-📫 Conecte-se comigo:
+---
+<table>
+  <tr>
+    <td width="150px"><img src="https://github.com/GSWcomputer.png" width="100px;" alt="Gilliardson"/></td>
+    <td>
+      <strong>Gilliardson</strong><br>
+      Administrador de Redes & Desenvolvedor Python. <br>
+      Sou um desenvolvedor focado em transformar desafios complexos em ferramentas produtivas. Com background em Administração de Redes e Cybersecurity, aplico rigor técnico e boas práticas de arquitetura em cada linha de código.
+      📫 Conecte-se comigo:
 
 LinkedIn: www.linkedin.com/in/gilliardson-swy
 
 Email: gilliardson.swy@gmail.com
 
 "Transformando linhas de código em produtividade financeira."
+    </td>
+  </tr>
+</table>
+
+
