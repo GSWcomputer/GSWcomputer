@@ -53,7 +53,7 @@ LucroMax_Project/
 </td>
 <td align="center">
 <img src="https://github.com/user-attachments/assets/80f5f565-b61b-465f-b26e-24211f33133d" width="200px"/><br />
-<sub><b>Configuração</b></sub>
+<sub><b>Funções do App</b></sub>
 </td>
 <td align="center">
 <img src="https://github.com/user-attachments/assets/cca8aabf-150f-45f6-9ffc-14f41116d2f1" width="200px"/><br />
@@ -61,26 +61,26 @@ LucroMax_Project/
 </td>
 <td align="center">
 <img src="https://github.com/user-attachments/assets/1b7cec68-cbab-4176-975a-3736c47741fc" width="200px"/><br />
-<sub><b>Overlay</b></sub>
+<sub><b>Configuração do Veículo</b></sub>
 </td>
 </tr>
 <!-- Linha 2 -->
 <tr>
 <td align="center">
 <img src="https://github.com/user-attachments/assets/dd2c8bb2-f54f-4075-aee5-5ed42a2d82ec" width="200px"/><br />
-<sub><b>Análise</b></sub>
+<sub><b>Relatório Financeiro</b></sub>
 </td>
 <td align="center">
 <img src="https://github.com/user-attachments/assets/352d725e-012b-447e-9c7e-7e6834469e40" width="200px"/><br />
-<sub><b>Zonas de Risco</b></sub>
+<sub><b>Overlay Ativo</b></sub>
 </td>
 <td align="center">
 <img src="https://github.com/user-attachments/assets/f5c89ae5-a124-47e0-807a-a016d8e26262" width="200px"/><br />
-<sub><b>Funções App</b></sub>
+<sub><b>Resultado</b></sub>
 </td>
 <td align="center">
 <img src="https://github.com/user-attachments/assets/6d3bb466-f83d-44d4-963f-6d1c1c618897" width="200px"/><br />
-<sub><b>Radar Uber</b></sub>
+<sub><b>Análise</b></sub>
 </td>
 </tr>
 
