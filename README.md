@@ -48,8 +48,10 @@ Conheça a interface do LucroMax. O sistema foi desenhado para ser discreto, fun
 <table>
   <tr>
     <td <img width="200" height="450" alt="Image" src="https://github.com/user-attachments/assets/b9c42f7b-19d7-4576-876b-d044b5f64c16" /></td>
+   <tr>
     <td><img width="200" height="450" alt="Image" src="https://github.com/user-attachments/assets/80f5f565-b61b-465f-b26e-24211f33133d" /></td>
-<td<img width="200" height="450" alt="Image" src="https://github.com/user-attachments/assets/cca8aabf-150f-45f6-9ffc-14f41116d2f1" /></td>
+<tr>
+     <td<img width="200" height="450" alt="Image" src="https://github.com/user-attachments/assets/cca8aabf-150f-45f6-9ffc-14f41116d2f1" /></td>
 <td<img width="200" height="450" alt="Image" src="https://github.com/user-attachments/assets/1b7cec68-cbab-4176-975a-3736c47741fc" /></td>
 <td<img width="200" height="450" alt="Image" src="https://github.com/user-attachments/assets/dd2c8bb2-f54f-4075-aee5-5ed42a2d82ec" /></td>
 <td<img width="200" height="450" alt="Image" src="https://github.com/user-attachments/assets/352d725e-012b-447e-9c7e-7e6834469e40" /></td>
