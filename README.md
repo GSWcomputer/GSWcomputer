@@ -43,20 +43,85 @@ LucroMax_Project/
 
 
 📱 Interface & Screenshots
-
-Conheça a interface do LucroMax. O sistema foi desenhado para ser discreto, funcional e informativo, garantindo que o motorista tenha os dados necessários sem perder o foco na condução.
-<table>
-  <tr>
-    <td <img width="200" height="450" alt="Image" src="https://github.com/user-attachments/assets/b9c42f7b-19d7-4576-876b-d044b5f64c16" /></td>
-   <tr>
-    <td><img width="200" height="450" alt="Image" src="https://github.com/user-attachments/assets/80f5f565-b61b-465f-b26e-24211f33133d" /></td>
+​Conheça a interface do LucroMax. O sistema foi desenhado para ser discreto, funcional e informativo, garantindo que o motorista tenha os dados necessários sem perder o foco na condução.
+​<table align="center">
+<!-- Linha 1 -->
 <tr>
-     <td<img width="200" height="450" alt="Image" src="https://github.com/user-attachments/assets/cca8aabf-150f-45f6-9ffc-14f41116d2f1" /></td>
-<td<img width="200" height="450" alt="Image" src="https://github.com/user-attachments/assets/1b7cec68-cbab-4176-975a-3736c47741fc" /></td>
-<td<img width="200" height="450" alt="Image" src="https://github.com/user-attachments/assets/dd2c8bb2-f54f-4075-aee5-5ed42a2d82ec" /></td>
-<td<img width="200" height="450" alt="Image" src="https://github.com/user-attachments/assets/352d725e-012b-447e-9c7e-7e6834469e40" /></td>
-<td<img width="200" height="450" alt="Image" src="https://github.com/user-attachments/assets/f5c89ae5-a124-47e0-807a-a016d8e26262" /></td>
-<td<img width="200" height="450" alt="Image" src="https://github.com/user-attachments/assets/6d3bb466-f83d-44d4-963f-6d1c1c618897" /></td>
+<td align="center">
+<img src="https://github.com/user-attachments/assets/b9c42f7b-19d7-4576-876b-d044b5f64c16" width="200px"/><br />
+<sub><b>Ativação</b></sub>
+</td>
+<td align="center">
+<img src="https://github.com/user-attachments/assets/80f5f565-b61b-465f-b26e-24211f33133d" width="200px"/><br />
+<sub><b>Configuração</b></sub>
+</td>
+<td align="center">
+<img src="https://github.com/user-attachments/assets/cca8aabf-150f-45f6-9ffc-14f41116d2f1" width="200px"/><br />
+<sub><b>Permissões</b></sub>
+</td>
+<td align="center">
+<img src="https://github.com/user-attachments/assets/1b7cec68-cbab-4176-975a-3736c47741fc" width="200px"/><br />
+<sub><b>Overlay</b></sub>
+</td>
+</tr>
+<!-- Linha 2 -->
+<tr>
+<td align="center">
+<img src="https://github.com/user-attachments/assets/dd2c8bb2-f54f-4075-aee5-5ed42a2d82ec" width="200px"/><br />
+<sub><b>Análise</b></sub>
+</td>
+<td align="center">
+<img src="https://github.com/user-attachments/assets/352d725e-012b-447e-9c7e-7e6834469e40" width="200px"/><br />
+<sub><b>Zonas de Risco</b></sub>
+</td>
+<td align="center">
+<img src="https://github.com/user-attachments/assets/f5c89ae5-a124-47e0-807a-a016d8e26262" width="200px"/><br />
+<sub><b>Funções App</b></sub>
+</td>
+<td align="center">
+<img src="https://github.com/user-attachments/assets/6d3bb466-f83d-44d4-963f-6d1c1c618897" width="200px"/><br />
+<sub><b>Radar Uber</b></sub>
+</td>
+</tr>
+<!-- Linha 3 -->
+<tr>
+<td align="center">
+<img src="https://github.com/user-attachments/assets/0ccfcd8e-3139-4781-b96d-a102680c3793" width="200px"/><br />
+<sub><b>Monitoramento</b></sub>
+</td>
+<td align="center">
+<img src="https://github.com/user-attachments/assets/5dcf87f8-264a-4b62-af77-d99566dca022" width="200px"/><br />
+<sub><b>Frota</b></sub>
+</td>
+<td align="center">
+<img src="https://github.com/user-attachments/assets/27eed3c2-b906-4bb5-be5f-4071c567b235" width="200px"/><br />
+<sub><b>Dashboard</b></sub>
+</td>
+<td align="center">
+<img src="https://github.com/user-attachments/assets/6125e901-5cb3-453f-bfc3-4214713ac45b" width="200px"/><br />
+<sub><b>OCR</b></sub>
+</td>
+</tr>
+<!-- Linha 4 -->
+<tr>
+<td align="center">
+<img src="https://github.com/user-attachments/assets/8afdacdd-75cc-4493-8736-f6112cd3924a" width="200px"/><br />
+<sub><b>Métricas</b></sub>
+</td>
+<td align="center">
+<img src="https://github.com/user-attachments/assets/46b459e9-4c1a-4b9e-9d5a-d55398eafc9c" width="200px"/><br />
+<sub><b>Segurança</b></sub>
+</td>
+<td align="center">
+<img src="https://github.com/user-attachments/assets/6a721780-2cf4-4422-ae9e-181e42d35c03" width="200px"/><br />
+<sub><b>Ajustes</b></sub>
+</td>
+<td align="center">
+<img src="https://github.com/user-attachments/assets/11ca6b6a-60d2-429e-a7e1-33146cb7a7ee" width="200px"/><br />
+<sub><b>Modo Oculto</b></sub>
+</td>
+</tr>
+</table>
 
 👨‍💻 Sobre Mim
 
