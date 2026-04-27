@@ -43,7 +43,8 @@ LucroMax_Project/
 
 
 📱 Interface & Screenshots
-​Conheça a interface do LucroMax. O sistema foi desenhado para ser discreto, funcional e informativo, garantindo que o motorista tenha os dados necessários sem perder o foco na condução.
+​Conheça a interface do LucroMax. 
+O sistema foi desenhado para ser discreto, funcional e informativo, garantindo que o motorista tenha os dados necessários sem perder o foco na condução.
 ​<table align="center">
 <!-- Linha 1 -->
 <tr>
