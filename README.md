@@ -45,8 +45,7 @@ LucroMax_Project/
 📱 Interface & Screenshots
 
 Conheça a interface do LucroMax. O sistema foi desenhado para ser discreto, funcional e informativo, garantindo que o motorista tenha os dados necessários sem perder o foco na condução.
-<img width="200" height="450" alt="Image" src="https://github.com/user-attachments/assets/b9c42f7b-19d7-4576-876b-d044b5f64c16" />
-<img width="200" height="450" alt="Image" src="https://github.com/user-attachments/assets/80f5f565-b61b-465f-b26e-24211f33133d" />
+<img width="200" height="450" alt="Image" src="https://github.com/user-attachments/assets/b9c42f7b-19d7-4576-876b-d044b5f64c16" /><img width="200" height="450" alt="Image" src="https://github.com/user-attachments/assets/80f5f565-b61b-465f-b26e-24211f33133d" />
 <img width="200" height="450" alt="Image" src="https://github.com/user-attachments/assets/cca8aabf-150f-45f6-9ffc-14f41116d2f1" />
 <img width="200" height="450" alt="Image" src="https://github.com/user-attachments/assets/1b7cec68-cbab-4176-975a-3736c47741fc" />
 <img width="200" height="450" alt="Image" src="https://github.com/user-attachments/assets/dd2c8bb2-f54f-4075-aee5-5ed42a2d82ec" />
