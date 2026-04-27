@@ -57,7 +57,7 @@ LucroMax_Project/
 </td>
 <td align="center">
 <img src="https://github.com/user-attachments/assets/cca8aabf-150f-45f6-9ffc-14f41116d2f1" width="200px"/><br />
-<sub><b>Permissões</b></sub>
+<sub><b>Zonas de Risco</b></sub>
 </td>
 <td align="center">
 <img src="https://github.com/user-attachments/assets/1b7cec68-cbab-4176-975a-3736c47741fc" width="200px"/><br />
@@ -83,42 +83,7 @@ LucroMax_Project/
 <sub><b>Radar Uber</b></sub>
 </td>
 </tr>
-<!-- Linha 3 -->
-<tr>
-<td align="center">
-<img src="https://github.com/user-attachments/assets/0ccfcd8e-3139-4781-b96d-a102680c3793" width="200px"/><br />
-<sub><b>Monitoramento</b></sub>
-</td>
-<td align="center">
-<img src="https://github.com/user-attachments/assets/5dcf87f8-264a-4b62-af77-d99566dca022" width="200px"/><br />
-<sub><b>Frota</b></sub>
-</td>
-<td align="center">
-<img src="https://github.com/user-attachments/assets/27eed3c2-b906-4bb5-be5f-4071c567b235" width="200px"/><br />
-<sub><b>Dashboard</b></sub>
-</td>
-<td align="center">
-<img src="https://github.com/user-attachments/assets/6125e901-5cb3-453f-bfc3-4214713ac45b" width="200px"/><br />
-<sub><b>OCR</b></sub>
-</td>
-</tr>
-<!-- Linha 4 -->
-<tr>
-<td align="center">
-<img src="https://github.com/user-attachments/assets/8afdacdd-75cc-4493-8736-f6112cd3924a" width="200px"/><br />
-<sub><b>Métricas</b></sub>
-</td>
-<td align="center">
-<img src="https://github.com/user-attachments/assets/46b459e9-4c1a-4b9e-9d5a-d55398eafc9c" width="200px"/><br />
-<sub><b>Segurança</b></sub>
-</td>
-<td align="center">
-<img src="https://github.com/user-attachments/assets/6a721780-2cf4-4422-ae9e-181e42d35c03" width="200px"/><br />
-<sub><b>Ajustes</b></sub>
-</td>
-<td align="center">
-<img src="https://github.com/user-attachments/assets/11ca6b6a-60d2-429e-a7e1-33146cb7a7ee" width="200px"/><br />
-<sub><b>Modo Oculto</b></sub>
+
 </td>
 </tr>
 </table>
